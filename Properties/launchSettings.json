@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MyFirstService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:7071;http://localhost:5242"
+    }
+  }
+}
